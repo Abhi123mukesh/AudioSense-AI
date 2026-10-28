@@ -1,3 +1,23 @@
+# 🎧 AudioSense AI — Cinematic Music Discovery
+
+## 🚀 Live Website
+
+**[Click here to open AudioSense AI](https://audiosense-ai.streamlit.app)**
+
+An AI-powered music recommendation system that recommends similar songs using machine learning and cosine similarity.
+
+## Features
+- Cinematic music-discovery interface
+- Interactive song recommendations
+- Music library and dataset exploration
+- Machine-learning explanation
+
+## Technology Stack
+Python, Streamlit, Pandas, Scikit-learn, Plotly
+
+## Dataset Note
+This project uses synthetic sample song features for demonstration and educational purposes.
+
 # AudioSense AI — Cinematic Music Discovery
 
 A Streamlit machine-learning demo for recommending tracks with similar numeric sound profiles.
